@@ -23,6 +23,5 @@ ui-debug.log
 .firebaserc
 firebase.json
 scripts/
-docs/
 
 .claude
